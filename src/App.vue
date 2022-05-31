@@ -48,17 +48,9 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                       <img src="./public/img/kisspng-fast-food-convenience-food-junk-food-packaging-and-abarrotes-5b4003bc2f6470.3223172015309219161941.png" class="d-block w-100">
-                      <div class="carousel-caption d-none d-md-block">
-                        <h5>Titulo Carousel</h5>
-                        <button type="button" class="btn btn-primary btn-lg">Boton Carousel</button>
-                      </div>
                     </div>
                     <div class="carousel-item">
                       <img src="./public/img/kisspng-vegetable-oil-soybean-oil-food-holy-anointing-oil-5d2d7cd8d05582.5651314415632621688534.png" class="d-block w-100">
-                      <div class="carousel-caption d-none d-md-block">
-                        <h5>Titulo Carousel</h5>
-                        <button type="button" class="btn btn-primary btn-lg">Boton Carousel</button>
-                      </div>
                     </div>
                 </div>
                 <a href="#carouselExample" class="carousel-control-prev" role="button" data-slide="prev">
@@ -70,6 +62,46 @@
                   <span class="visualy-hidden"></span>
                 </a>
             </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-6">
+    <a href="" class="link-info">
+      <h2>lorem </h2>
+    <p class="lead">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus amet soluta quia eius rem quod exercitationem beatae. Exercitationem, fuga culpa nihil aspernatur nulla dolores. Vitae reiciendis possimus architecto perferendis voluptates.
+    </p>
+    </a>
+  </div>
+
+  <div class="col-6">
+    <a href="">
+      <h2>lorem </h2>
+    <p class="lead">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus amet soluta quia eius rem quod exercitationem beatae. Exercitationem, fuga culpa nihil aspernatur nulla dolores. Vitae reiciendis possimus architecto perferendis voluptates.
+    </p>
+    </a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <h2>Contactanos</h2>
+    <form>
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Password</label>
+    <input type="password" class="form-control" id="exampleInputPassword1">
+  </div>
+  <div class="mb-3 form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
   </div>
 </div>
     </div>
